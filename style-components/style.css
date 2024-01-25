@@ -42,3 +42,7 @@ input:hover {
     width: 50%;
     justify-content: spac;
 }
+
+h1 {
+    color: white;
+}
