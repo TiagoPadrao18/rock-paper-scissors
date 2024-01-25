@@ -1,0 +1,44 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #605B56;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    
+   
+}
+
+.buttons {
+    height: 40%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+input{
+    width: 24%;
+    height: 20%;
+    background-color:#837A75;
+    border: none;
+    border-radius: 4px;
+    color: white;
+}
+
+input:hover {
+    background-color: #b2a39c;
+}
+
+.answer{
+    display: flex;
+    width: 50%;
+    justify-content: spac;
+}
